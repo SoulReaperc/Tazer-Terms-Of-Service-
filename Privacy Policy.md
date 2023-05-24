@@ -4,7 +4,7 @@ Thank you for using Tazer Multipurpose Bot! This Privacy Policy outlines how we 
 
 # Information We Collect
 
-We collect certain information you provide voluntarily and automatically when you use the Bot, such as your Discord username and usage data.
+When you interact with the Bot, we may collect certain information that you voluntarily provide, such as your Discord username, user ID, server information, and any data you choose to share with the Bot through commands or interactions.
 
 # Use of Information
 
@@ -32,6 +32,6 @@ We may update this Privacy Policy, and any changes will be posted on the Bot's w
 
 # Contact Us
 
-If you have questions or requests regarding this Privacy Policy or would like to request the deletion of your data, please contact us at [Contact Information].
+If you have questions or requests regarding this Privacy Policy or would like to request the deletion of your data, please contact us at [Tazer Support Server](https://discord.gg/9MK2xj6sNR).
 
 By using the Tazer Multipurpose Bot, you consent to the collection, use, and processing of your personal information as described in this Privacy Policy.
